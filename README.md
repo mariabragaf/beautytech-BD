@@ -12,8 +12,7 @@ Bem-vindo ao **BeautyTechDB**, um banco de dados feito para organizar e gerencia
 
 ---
 
-# Exemplos de Queries
-# Seleção de dados
+# Exemplos de seleção de dados utilizados:
 
 ```sql
 
