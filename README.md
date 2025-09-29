@@ -7,8 +7,7 @@ Bem-vindo ao **BeautyTechDB**, um banco de dados feito para organizar e gerencia
 # 🛠️ Tecnologias Utilizadas:
 
 - PostgreSQL
-- SQL puro (DDL e DML)
-- Ferramenta de IA (ChatGPT, Claude, GitHub Copilot, etc.) para geração de dados realistas
+- SQL puro
 
 ---
 
