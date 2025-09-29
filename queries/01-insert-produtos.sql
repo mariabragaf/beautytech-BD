@@ -1,5 +1,5 @@
 -- criação de um banco de dados para armazenar todos os produtos de beleza --
-CREATE DATABASE beautytechdb;
+CREATE DATABASE beauty_tech_db;
 
 -- criação de tabela com todas as informações necessárias --
 CREATE TABLE produtos (
@@ -18,7 +18,7 @@ VALUES
 ('Pro Filt''r Soft Matte Foundation', 'Fenty Beauty', 229.00, 'maquiagem', 20),
 ('Soft Pinch Liquid Blush', 'Rare Beauty', 159.00, 'maquiagem', 25),
 ('Glossier You Eau de Parfum', 'Glossier', 399.00, 'perfume', 15),
-('Moroccanoil Treatment', 'Moroccanoil', 199.90, 'cabelos', 40);
+('Moroccanoil Treatment', 'Moroccanoil', 199.90, 'cabelos', 40),
 ('Hyaluronic Acid 2% + B5', 'The Ordinary', 89.90, 'skincare', 50),
 ('Good Girl Eau de Parfum', 'Carolina Herrera', 549.00, 'perfume', 12),
 ('Killawatt Freestyle Highlighter', 'Fenty Beauty', 229.90, 'maquiagem', 18),
